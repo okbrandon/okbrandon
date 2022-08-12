@@ -3,7 +3,7 @@
 
 - 👨‍🎓 I’m currently studying at [42School](https://github.com/42School).
 
-- ⚡ This is my school's account, check out my [main profile]((https://github.com/brandonlooksdumb))!
+- ⚡ This is my school's account, check out my [main profile](https://github.com/brandonlooksdumb)!
 
 - 📫 You can contact me on **Discord @ TADASUKE#0554**
 
