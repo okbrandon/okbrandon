@@ -1,16 +1,14 @@
-### Hi there 👋
+<h1 align="center">Hello there 👋, I'm Brandon.</h1>
+<h3 align="center">A passionate and curious developer from France.</h3>
 
-<!--
-**okbrandon/okbrandon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👨‍🎓 I’m currently studying at [42School](https://github.com/42School).
 
-Here are some ideas to get you started:
+- ⚡ This is my school's account, check out my [main profile]((https://github.com/brandonlooksdumb))!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 You can contact me on **Discord @ TADASUKE#0554**
+
+
+<h3 align="center">Languages and tools I can use:</h3>
+<p align="center"><img src="https://skillicons.dev/icons?i=java,linux,bash,mysql,redis,php,cloudflare,gcp,git,grafana,figma,vscode,idea"/></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=okbrandon&count_private=true&show_icons=true&theme=midnight-purple" alt="okbrandon's GitHub stats" /></p>
