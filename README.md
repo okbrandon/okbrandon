@@ -1,4 +1,4 @@
-[![Hi, I'm Duart Breedt](./assets/cover.png)](#)
+[![Hi, I'm Brandon](./assets/cover.png)](#)
 
 <span align="center">
   
@@ -28,6 +28,6 @@
 
 <span align="center">
   
-  [![okbrandon's Spotify Music](https://spotify-github-profile.vercel.app/api/view?uid=deustch.private&cover_image=true&theme=default&show_offline=false&bar_color=825fc4&bar_color_cover=false)](#)
+  [![okbrandon's Spotify Music](https://www.data-card-for-spotify.com/api/card?user_id=deustch.private)](#)
   
 </span>
