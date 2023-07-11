@@ -28,6 +28,6 @@
 
 <span align="center">
   
-  [![okbrandon's Spotify Music](https://www.data-card-for-spotify.com/api/card?user_id=deustch.private)](#)
+  [![okbrandon's Spotify Music](https://data-card-for-spotify.herokuapp.com/api/card?user_id=deustch.private)](#)
   
 </span>
