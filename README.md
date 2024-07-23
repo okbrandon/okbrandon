@@ -5,7 +5,9 @@
   <a href="mailto:hello@brandoncodes.dev"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   [![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/tadasuke)
   [![Spotify Badge](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/deustch.private)
-  
+
+  <p>A self-taught and passionate <b>software engineer student</b> based in France 🇫🇷</p>
+
 </div>
 
 <div align="center">
